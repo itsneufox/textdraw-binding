@@ -1,0 +1,15 @@
+{
+	"user": "TommyB123",
+	"repo": "textdraw-binding",
+	"tag": "0.0.1",
+	"entry": "test.pwn",
+	"output": "gamemods/test.amx",
+	"runtime": {
+		"version": "openmp"
+	},
+	"dependencies": [
+		"openmultiplayer/omp-stdlib",
+		"pawn-lang/samp-stdlib@open.mp",
+		"pawn-lang/pawn-stdlib@open.mp"
+	]
+}
