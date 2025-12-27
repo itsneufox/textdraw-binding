@@ -32,7 +32,7 @@ This library requires the following dependencies.
 Simply install to your project:
 
 ```bash
-sampctl package install TommyB123/textdraw-binding
+sampctl install TommyB123/textdraw-binding
 ```
 
 Include in your code and begin using the library:
